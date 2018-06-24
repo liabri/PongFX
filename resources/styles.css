@@ -1,0 +1,33 @@
+.select {
+    -fx-font-family: "ARCADECLASSIC";
+    -fx-font-size: 70px;
+    -fx-stroke: #ffffff;
+    -fx-fill: white;
+}
+
+.title {
+    -fx-font-family: "ARCADECLASSIC";
+    -fx-font-size: 140px;
+    -fx-stroke: #ffffff;
+    -fx-fill: white;
+}
+
+.winner {
+    -fx-font-family: "ARCADECLASSIC";
+    -fx-font-size: 40px;
+    -fx-fill: green;
+}
+
+.score {
+    -fx-font-family: "ARCADECLASSIC";
+    -fx-font-size: 80px;
+    -fx-stroke: #ffffff;
+    -fx-fill: white;
+}
+
+.settings {
+    -fx-font-family: "ARCADECLASSIC";
+    -fx-font-size: 50px;
+    -fx-stroke: #ffffff;
+    -fx-fill: white;
+}
